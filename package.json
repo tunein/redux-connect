@@ -1,6 +1,6 @@
 {
   "name": "redux-connect",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "It allows you to request async data, store them in redux state and connect them to your react component.",
   "main": "lib/index.js",
   "repository": {
@@ -34,7 +34,7 @@
     "prop-types": "~15.x.x",
     "react": "15.x.x",
     "react-redux": "~4.x.x || ~5.x.x",
-    "react-router": "~2.x.x || ~3.x.x"
+    "react-router": "tunein/react-router#v3.0.6"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
